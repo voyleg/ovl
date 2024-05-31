@@ -1,0 +1,16 @@
+# Base
+imageio==2.31.6
+matplotlib==3.8.0
+numpy==1.26.1
+pandas==2.1.1
+tqdm==4.64.1
+
+# PyTorch
+torch==1.13.1
+torchvision==0.14.1
+
+# Geometry
+open3d==0.17.0
+trimesh==4.0.1
+nvdiffrast @ git+https://github.com/NVlabs/nvdiffrast@v0.3.1
+ninja==1.11.1.1
